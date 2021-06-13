@@ -1,4 +1,4 @@
-Web Application created using react.js to provide various food recipes for the food searched.
+Web Application created using react.js to provide various food recipes for the food searched.<br/>
 find the project on : https://recipe-food-appp.herokuapp.com/
 
 ## Available Scripts
